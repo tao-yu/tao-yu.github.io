@@ -1,0 +1,16 @@
+h1, h2 {
+font-family: "Arial";
+}
+
+a:link {
+    font-family: "Arial";
+    color: cornflowerblue;
+}
+a:visited {
+    font-family: "Arial";
+    color: darkslateblue;
+}
+
+.centered {
+    text-align: center;
+}
